@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oro-shop-premium-colombia.vercel.app/sitemap.xml
